@@ -1,0 +1,33 @@
+@font-face {
+font-family: SuperMario256;
+src: url('SuperMario256.ttf'); 
+}
+.yellow {
+    height: 60px;
+    background-color: yellow;
+    color: red;
+    font-family: SuperMario256;
+    font-size: 35px;
+    padding: 5px;
+}
+
+.red {
+    height: 320px;
+    background-color: red;
+    text-align: center;
+}
+
+p {
+    color: red;
+    font-size: 15px;
+    text-align: center;
+    font-family: SuperMario256;
+}
+
+h1 {
+    color: red;
+    font-size: 40px;
+    text-align: center;
+    font-family: SuperMario256;
+}
+
